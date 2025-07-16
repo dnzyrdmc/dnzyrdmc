@@ -29,7 +29,7 @@
 <br>
 
 <div align=center>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=dnzyrdmc&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="dnzyrdmc's GitHub Stats" />
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=dnzyrdmc&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Deniz Yardımcı's GitHub Stats" />
 </div>
 
 <hr>
