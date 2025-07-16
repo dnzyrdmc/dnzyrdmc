@@ -2,12 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Deniz+Yardımcı!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### I am a Computer Engineering graduate from TED University with a solid background in software development and business analysis. During my internships and work experience, I contributed to building corporate websites and developing user-centered tools by applying skills in HTML, CSS, and JavaScript. I’m passionate about creating innovative and practical software solutions.
 
 
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
 
 
 ## 🛠️ Languages and Tools
