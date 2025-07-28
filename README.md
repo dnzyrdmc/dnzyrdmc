@@ -38,7 +38,7 @@
 <br>
 
 <div align="center">
-  <a href="denizyardimci47@gmail.com">
+  <a href="mailto:denizyardimci47@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/denizyardimci" target="_blank">
