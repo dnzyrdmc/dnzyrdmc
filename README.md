@@ -1,13 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B50,100:22D3EE&height=210&section=header&text=DENIZ%20YARDIMCI&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineer%20%E2%80%A2%20Developer&descSize=18&descAlignY=58" width="100%" alt="Deniz Yardimci — Computer Engineer & Developer" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B50,100:22D3EE&height=230&section=header&text=DENIZ%20YARDIMCI&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineer%20%E2%80%A2%20Developer&descSize=18&descAlignY=58"
+  width="100%"
+  alt="Deniz Yardimci — Computer Engineer & Developer"
+/>
 
-### Curious mind. Practical solutions.
+<a href="https://github.com/dnzyrdmc?tab=repositories">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1400&color=22D3EE&center=true&vCenter=true&width=650&height=65&lines=Hello%2C+I'm+Deniz.;Building+interfaces.+Connecting+APIs.;Debugging.+Learning.+Building.;Explore+my+projects+below."
+    alt="Hello, I'm Deniz. Building interfaces. Connecting APIs. Debugging. Learning. Building. Explore my projects below."
+  />
+</a>
 
-Computer Engineer.  
+<br />
+
+Computer Engineering graduate from **TED University**.  
 I enjoy building web applications, connecting interfaces with APIs,  
 and figuring out why things break.
 
+<br />
 <br />
 
 <a href="https://github.com/dnzyrdmc?tab=repositories">
@@ -49,27 +61,51 @@ The best way to get to know my work is to explore the code.
 
 Browse my repositories for projects, experiments, and the things I’m learning along the way.
 
-<p>
-  <a href="https://github.com/dnzyrdmc?tab=repositories">
-    <img src="https://img.shields.io/badge/See_All_Repositories_↗-123B50?style=for-the-badge&logo=github&logoColor=white" alt="See All Repositories" />
-  </a>
-</p>
+<a href="https://github.com/dnzyrdmc?tab=repositories">
+  <img src="https://img.shields.io/badge/See_All_Repositories-123B50?style=for-the-badge&logo=github&logoColor=white" alt="See All Repositories" />
+</a>
 
+<br />
 <br />
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnzyrdmc&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&hide_rank=true" width="460" alt="Deniz Yardimci's GitHub Activity" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dnzyrdmc&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&hide_rank=true"
+    width="460"
+    alt="Deniz Yardimci's GitHub Activity"
+  />
 </p>
 
 <br />
 
+---
+
 <div align="center">
 
-**Have an idea or want to connect?**  
-[Drop me an email](mailto:denizyardimci47@gmail.com) · [Find me on LinkedIn](https://www.linkedin.com/in/denizyardimci/)
+### Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B50,100:22D3EE&height=100&section=footer" width="100%" alt="" />
+Have an idea or want to talk about software? Feel free to reach out.
+
+<br />
+
+<a href="mailto:denizyardimci47@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-22D3EE?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email Deniz" />
+</a>
+<a href="https://www.linkedin.com/in/denizyardimci/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-123B50?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+<br />
+<br />
+
+**Thanks for stopping by.**
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B50,100:22D3EE&height=110&section=footer"
+  width="100%"
+  alt=""
+/>
 
 </div>
