@@ -11,8 +11,9 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,postgres" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,postgres" alt="Java, Python, JavaScript, PostgreSQL" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=html,css,vue,angular,git" alt="HTML, CSS, Vue.js, Angular, Git" />
 </p>
 
 <hr>
